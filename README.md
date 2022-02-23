@@ -2,4 +2,4 @@
 - 🌱 I’m currently learning Java
 - 📫 Discord server: https://discord.gg/hMEGTPbs
 - 🚀 Polymart: https://polymart.org/u/8600
-https://github-readme-stats.vercel.app/api?username=CubeCrafter72
+![Alt text](https://github-readme-stats.vercel.app/api?username=CubeCrafter72)
