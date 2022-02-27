@@ -3,4 +3,4 @@
 - 📫 Discord server: https://discord.gg/hMEGTPbs
 - 🚀 Polymart: https://polymart.org/u/8600
 
-![](https://github-readme-stats.vercel.app/api?username=CubeCrafter72)
+![CubeCrafter72's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CubeCrafter72&theme=dark&show_icons=true)
